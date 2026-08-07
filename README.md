@@ -57,6 +57,7 @@ Berikut adalah daftar solusi lab yang tersedia dalam repository ini berdasarkan 
 ### ☁️ Core Infrastructure & DevOps
 | Skill Badge / Course Title | Challenge Lab Name | Solution & Guide |
 | :--- | :--- | :---: |
+| **Implement CI/CD Pipelines on Google Cloud** | *[GSP393] Implement CI/CD Pipelines on Google Cloud: Challenge Lab* | [Lihat Solusi](./Implement%20CICD%20Pipelines%20on%20Google%20Cloud/[GSP393]%20Implement%20CICD%20Pipelines%20on%20Google%20Cloud-Challenge%20Lab.md) |
 | **-** | *-* | [Lihat Solusi]() |
 
 ### 📊 AI, Data & Machine Learning
@@ -67,6 +68,7 @@ Berikut adalah daftar solusi lab yang tersedia dalam repository ini berdasarkan 
 ### 🏢 Others
 | Skill Badge / Course Title | Challenge Lab Name | Solution & Guide |
 | :--- | :--- | :---: |
+| **Develop with App Script and AppSheet** | *[ARC126] Develop with App Script and AppSheet: Challenge Lab* | [Lihat Solusi](./Develop%20with%20App%20Script%20and%20AppSheet/[ARC126]%20Develop%20with%20App%20Script%20and%20AppSheet.md) |
 | **-** | *-* | [Lihat Solusi]() |
 
 ---
