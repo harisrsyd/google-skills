@@ -53,6 +53,8 @@ Berikut adalah daftar solusi lab yang tersedia dalam repository ini berdasarkan 
 | :--- | :--- | :---: |
 | **The Basics of Google Cloud Compute** | *[ARC120] The Basics of Google Cloud Compute: Challenge Lab* | [Lihat Solusi](./The%20Basics%20of%20Google%20Cloud%20Compute/[ARC120]%20The%20Basics%20of%20Google%20Cloud%20Compute-Challenge%20Lab.md) |
 | **Build Serverless Applications with Cloud Run Functions** | *[ARC104] Build Serverless Applications with Cloud Run Functions: Challenge Lab* | [Lihat Solusi](./Build%20Serverless%20Application%20With%20Cloud%20Run%20Functions/[ARC104]%20Build%20Serverless%20Applications%20with%20Cloud%20Run%20Functions-Challenge%20Lab.md) |
+| **Deploy and Secure Serverless APIs with API Gateway** | *[ARC109] Deploy and Secure Serverless APIs with API Gateway: Challenge Lab* | [Lihat Solusi](./Deploy%20and%20Secure%20Serverless%20APIs%20with%20API%20Gateway/[ARC109]%20Deploy%20and%20Secure%20Serverless%20APIs%20with%20API%20Gateway-Challenge%20Lab.md) |
+| **-** | *-* | [Lihat Solusi]() |
 
 ### ☁️ Core Infrastructure & DevOps
 | Skill Badge / Course Title | Challenge Lab Name | Solution & Guide |
@@ -63,6 +65,7 @@ Berikut adalah daftar solusi lab yang tersedia dalam repository ini berdasarkan 
 ### 📊 AI, Data & Machine Learning
 | Skill Badge / Course Title | Challenge Lab Name | Solution & Guide |
 | :--- | :--- | :---: |
+| **Create and Manage Cloud Spanner Instances** | *[GSP381] Create and Manage Cloud Spanner Instances: Challenge Lab* | [Lihat Solusi](./Create%20and%20Manage%20Cloud%20Spanner%20Instances/[GSP381]%20Create%20and%20Manage%20Cloud%20Spanner%20Instances-Challenge%20Lab.md) |
 | **-** | *-* | [Lihat Solusi]() |
 
 ### 🏢 Others
