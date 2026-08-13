@@ -61,6 +61,7 @@ Berikut adalah daftar solusi lab yang tersedia dalam repository ini berdasarkan 
 | :--- | :--- | :---: |
 | **Implement CI/CD Pipelines on Google Cloud** | *[GSP393] Implement CI/CD Pipelines on Google Cloud: Challenge Lab* | [Lihat Solusi](./Implement%20CICD%20Pipelines%20on%20Google%20Cloud/[GSP393]%20Implement%20CICD%20Pipelines%20on%20Google%20Cloud-Challenge%20Lab.md) |
 | **Monitoring in Google Cloud** | *[ARC115] Monitoring in Google Cloud: Challenge Lab* | [Lihat Solusi](./Monitoring%20in%20Google%20Cloud/[ARC115]%20Monitoring%20in%20Google%20Cloud-Challenge%20Lab.md) |
+| **Connecting Cloud Networks with NCC** | *[GSP528] Connecting Cloud Networks with NCC: Challenge Lab* | [Lihat Solusi](./Connecting%20Cloud%20Networks%20with%20NCC/[GSP528]%20Connecting%20Cloud%20Networks%20with%20NCC-Challenge%20Lab.md) |
 | **-** | *-* | [Lihat Solusi]() |
 
 ### 📊 AI, Data & Machine Learning

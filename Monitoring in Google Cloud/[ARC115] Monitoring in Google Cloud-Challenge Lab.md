@@ -1,6 +1,6 @@
 # [ARC115] Monitoring in Google Cloud: Challenge Lab
 
-### `🔗 Lab Link` - [*Click Here*]()
+### `🔗 Lab Link` - [*Click Here*](https://www.skills.google/course_templates/747/labs/613029)
 
 ## Task 1. Install the Cloud Logging and Monitoring agents using Ops Agent
 1. In the Cloud Console, select **Navigation Menu > Compute Engine > VM instance**.
